@@ -1,0 +1,12 @@
+//Run the following command to create the Boiler Plate project for React.
+$ create-react-app nxtgendist
+
+# Runs the application in http://localhost:3000
+npm start
+
+# Runs the tests
+npm test
+
+# Builds the application for production
+npm run build
+
